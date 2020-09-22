@@ -8,6 +8,7 @@ import lombok.ToString;
 import javax.persistence.*;
 import javax.xml.bind.annotation.XmlRootElement;
 import java.util.Date;
+//Pour repondre en XML
 //@XmlRootElement
 @Entity
 @Data @NoArgsConstructor @AllArgsConstructor @ToString
